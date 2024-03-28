@@ -1,0 +1,1 @@
+archivo ohmy.sh
